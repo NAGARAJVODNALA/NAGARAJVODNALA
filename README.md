@@ -62,7 +62,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** [nagarajuvodnala123@gmail.com](mailto:nagarajuvodnala123@gmail.com)
-- **LinkedIn:** [Naga Raju Vodnala](https://www.linkedin.com/in/naga-raju-vodnala)
+- **LinkedIn:** [Naga Raju Vodnala](https://www.linkedin.com/in/nagavodnala)
 - **GitHub:** [@NAGARAJVODNALA](https://github.com/NAGARAJVODNALA)
 
 ---
