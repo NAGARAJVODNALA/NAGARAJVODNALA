@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Naga Raju Vodnala!
 
 ## 👨🏻‍💻 About Me
-- 💡 **Computer Science Graduate** with solid experience in **Data Engineering**, **Software Development**, and **Cloud Technologies**.
+- 💡 **Computer Science Graduate** with solid experience in **Data Engineering**, **Data Science**,**Software Development**, and **Cloud Technologies**.
 - 🌱 Passionate about building scalable **data pipelines**, crafting **cloud-native solutions**, and exploring cutting-edge technologies.
 - ✍️ In my free time, I enjoy coding personal projects, reading tech blogs, and exploring innovative data tools.
 - 💬 Actively seeking opportunities in **Data Engineering** and **Cloud Development**. Feel free to connect if you'd like to collaborate or discuss exciting ideas!
